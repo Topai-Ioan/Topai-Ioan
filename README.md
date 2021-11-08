@@ -22,7 +22,7 @@ I'm Țopai Ioan-Alexandru, a highly motivated and results oriented computer scie
 <br/>
 
 #### Contact
-- 📎 [My Resume/CV](#)
+- 📎 [My Resume/CV](https://github.com/Topai-Ioan/Topai-Ioan/blob/master/resume/Topai-Ioan.pdf)
 - 📧 allexandru9801@gmail.com
 
 
