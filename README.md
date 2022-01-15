@@ -45,9 +45,9 @@ Systems Engineering domain. I love programming, traveling and taking photos
 
 <!--START_SECTION:waka-->
 ```text
-C++        7 hrs 59 mins   ███████████████████▒░░░░░   77.41 % 
-C          1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Text       55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+C++        4 hrs 45 mins   ██████████████████░░░░░░░   71.70 % 
+C          1 hr 24 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
+Text       27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 ```
 <!--END_SECTION:waka-->
 
