@@ -46,9 +46,9 @@ Systems Engineering domain. I love programming, traveling and taking photos
 <!--START_SECTION:waka-->
 
 ```text
-HTML         8 mins          ███████████▒░░░░░░░░░░░░░   45.79 %
-JavaScript   7 mins          ███████████▒░░░░░░░░░░░░░   45.05 %
-C            1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+HTML         6 mins          ███████████████████▓░░░░░   79.32 %
+C            1 min           █████░░░░░░░░░░░░░░░░░░░░   19.86 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
