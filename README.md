@@ -46,8 +46,8 @@ Systems Engineering domain. I love programming, traveling and taking photos
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 5 mins    █████████████████████████   99.89 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       6 hrs 2 mins    █████████████████████████   99.85 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
