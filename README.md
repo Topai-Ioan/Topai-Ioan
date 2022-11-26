@@ -46,8 +46,7 @@ Systems Engineering domain. I love programming, traveling and taking photos
 <!--START_SECTION:waka-->
 
 ```text
-C#      51 mins         ██████████▓░░░░░░░░░░░░░░   42.27 %
-Other   39 mins         ████████▒░░░░░░░░░░░░░░░░   32.99 %
+Other   1 hr 15 mins    ███████████░░░░░░░░░░░░░░   44.36 %
 ```
 
 <!--END_SECTION:waka-->
