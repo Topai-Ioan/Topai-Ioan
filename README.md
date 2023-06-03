@@ -45,7 +45,7 @@ Systems Engineering domain. I love programming, traveling and taking photos
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
