@@ -4,7 +4,7 @@ I'm Topai Ioan-Alexandru, a highly motivated and results-oriented computer scien
 
 📬 Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/Alexandru%20-blue?style=flat&logo=linkedin&labelColor=0e76a8&logoColor=white)](https://www.linkedin.com/in/ioan-alexandru-topai/) [![Mail Badge](https://img.shields.io/badge/-Alexandru_Topai-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:allexandru9801@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/ioan-alexandru-topai/) [![Mail Badge](https://img.shields.io/badge/-Alexandru_Topai-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:allexandru9801@gmail.com)
 <br/>
 <br/>
 I'm a student at the Faculty of Automatic Control and Computers, University Politehnica of Bucharest, Romania
